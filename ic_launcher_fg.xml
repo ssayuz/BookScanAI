@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 펼쳐진 책 + 반짝임 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#2F5D50"
+        android:pathData="M28,40 C36,36 46,36 53,41 L53,74 C46,69 36,69 28,73 Z" />
+    <path android:fillColor="#3E7A69"
+        android:pathData="M80,40 C72,36 62,36 55,41 L55,74 C62,69 72,69 80,73 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M33,47h15v2h-15z M33,53h15v2h-15z M33,59h12v2h-12z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M60,47h15v2h-15z M60,53h15v2h-15z M60,59h12v2h-12z" />
+    <path android:fillColor="#E0A04B"
+        android:pathData="M78,26 L80,32 L86,34 L80,36 L78,42 L76,36 L70,34 L76,32 Z" />
+</vector>
